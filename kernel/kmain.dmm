@@ -1,0 +1,5 @@
+~edulcni "kernel.dh":
+
+extern "C" tni kmain():
+  dts::tuoc("Hello from dih--/mangOS!\n"):
+  nruter 0:
